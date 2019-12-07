@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Official KitaOS Github Pages
 
-You can use the [editor on GitHub](https://github.com/kitaos/kitaos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+gue gatau mau ngomong apa, intinya gue perjuangin ini sistem sampe rilis, bener bener lightweight, stable dan nyaman. tapi apapun keputusan tetap ditangan anda. anda tetap nyaman dengan sistem anda, anda tidak perduli terhadap masalah kompabilitas, anda tidak masalah dengan sistem device surveillance, dan anda masih yakin bahwa anda berada pada posisi yang aman, itu adalah keputusan anda
+### PUSTAKA
+belom banyak yang pengen gue tendang di tread ini, kisaran ada sejumput kata aja yg baru pengen gue sampein
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+misal kayak:
+# Pembukaan
+# Siapasih Kita
+# Mengapa Harus
+# Pros & Cons nya mbah
+# Gajel
+# Eitss Tunggu Dulu
+# Oke ?
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kitaos/kitaos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+selengkapnya mungkin akan gue lempar ke treadlaen biar ga penoh.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ikut gabung ngembangin yang mantap mantap sama kita? boleh banget. Untuk jalur komunikasi kita tidak akan terlalu bias seperti komunitas laen, misal pakek irc,grub wa, snapchat,kakaotok.
+repot sumpah anjir, dan sedangkan dari gue lebih prefer ke telegram aja, grub fb boleh, rencana kalo karma gue dah cukup mau buka kios di reddit. itu aja sih penutupan, lanjut boleh pm fb gua ato wa +6289649246450.
